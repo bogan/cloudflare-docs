@@ -148,7 +148,8 @@ To regenerate backup codes, 
 1.  Log in to the Cloudflare dashboard.
 2.  Click **My Profile**.
 3.  Click the **Authentication** tab.
-4.  Click **Regenerate** to generate and save a new set of two-factor backup codes.
+4.  Click **Manage** in the **Two-Factor Authentication** panel.
+5.  Click **Regenerate** in the **Backup codes** panel to generate and save a new set of two-factor backup codes.
 
 ___
 
